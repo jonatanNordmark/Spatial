@@ -1,5 +1,7 @@
 function [neuralDataTable] = createNeuralDataTable_thesisUpgrade2019(channelSpikeStruct, Fs, behavMeta, behaviorM)
 
+% This is so much better than previously!, JN 2019-11
+
 % FUNCTION; createNeuralDataTable_thesisUpgrade2019, JN
 
 neuralDataTable = [];
