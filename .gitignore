@@ -1,0 +1,10 @@
+*.asv
+*.m~
+*.fig
+*.pdf
+*.svg
+*.mat
+*.txt
+*.cdr
+*.eps
+*.png
